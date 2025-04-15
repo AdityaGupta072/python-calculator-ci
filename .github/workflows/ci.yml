@@ -1,6 +1,6 @@
-Yaml
+Yml
 
-name: Python CI
+name:ci
 
 on:
   push:
